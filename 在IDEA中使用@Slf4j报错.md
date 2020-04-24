@@ -8,12 +8,12 @@
 
 1.File->Settings
 
-![Image text](https://github.com/wlyaddress/-idea-/tree/master/img/@Slf4j-1.png)
+![Image](./img/@Slf4j-1.png)
 
 2.Plugins->Browse repositories
 
-![Image text](https://github.com/wlyaddress/-idea-/tree/master/img/@Slf4j-2.png)
+![Image](./img/@Slf4j-2.png)
 
 3.搜索lombok，安装即可
 
-![Image text](https://github.com/wlyaddress/-idea-/tree/master/img/@Slf4j-3.png)
+![Image](./img/@Slf4j-3.png)
