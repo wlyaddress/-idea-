@@ -8,4 +8,12 @@
 
 1.File->Settings
 
-![github](http://github.com/unicorn.png "github") 
+![image](img/@Slf4j-1.png)
+
+2.Plugins->Browse repositories
+
+![image](img/@Slf4j-2.png)
+
+3.搜索lombok，安装即可
+
+![image](img/@Slf4j-3.png)
